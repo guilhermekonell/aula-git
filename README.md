@@ -147,3 +147,8 @@ e após, podemos atualizar a nossa branch local com as novas alterações:
 git pull origin teste
 ```
 
+## Resolvendo conflitos
+
+Para resolver conflitos, executamos os seguintes passos:
+
+- 
