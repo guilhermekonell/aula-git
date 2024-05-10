@@ -151,4 +151,4 @@ git pull origin teste
 
 Para resolver conflitos, executamos os seguintes passos:
 
-- 
+- texto ao contrário.
