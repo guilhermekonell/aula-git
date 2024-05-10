@@ -1,5 +1,19 @@
 # GIT - Comandos básicos
 
+## Configurações básicas
+
+Para setar o nome que será demonstrado em nossos commits e operações:
+
+```
+git config --global user.name "Fulano de Tal"
+```
+
+Para setar o email que será demonstrado em nossos commits e operações:
+
+```
+git config --global user.email fulano.tal@gmail.com
+```
+
 ## Inicializar um novo repositório
 
 Para inicializar um novo repositório, basta executar o seguinte comando:
